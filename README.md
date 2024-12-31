@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor-Game
-Game created by using basics of html css and js
+"A simple Rock-Paper-Scissors game built with HTML, CSS, and JavaScript. This project demonstrates the fundamentals of web development, including interactive UI and basic game logic."
